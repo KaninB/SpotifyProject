@@ -1,0 +1,14 @@
+__________________________________________________
+Accuracy Report:               precision    recall  f1-score   support
+
+           0       0.98      0.99      0.98      4887s
+           1       0.85      0.79      0.82       470
+
+    accuracy                           0.97      5357
+   macro avg       0.91      0.89      0.90      5357
+weighted avg       0.97      0.97      0.97      5357
+Train %: 0.7 Test %: 0.3 
+Number of mislabeled points out of a total 5357 points : 166 
+Acc: 0.97 
+Prec: 0.85 
+Rec: 0.79 

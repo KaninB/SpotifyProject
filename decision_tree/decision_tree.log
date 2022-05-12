@@ -1,0 +1,139 @@
+|--- Artist.Followers <= 4751564.50
+|   |--- Artist.Followers <= 1242751.00
+|   |   |--- class: False
+|   |--- Artist.Followers >  1242751.00
+|   |   |--- Artist.Followers <= 1256144.50
+|   |   |   |--- Artist.Followers <= 1247844.50
+|   |   |   |   |--- class: False
+|   |   |   |--- Artist.Followers >  1247844.50
+|   |   |   |   |--- class: True
+|   |   |--- Artist.Followers >  1256144.50
+|   |   |   |--- Artist.Followers <= 1276923.00
+|   |   |   |   |--- Artist.Followers <= 1275050.50
+|   |   |   |   |   |--- class: False
+|   |   |   |   |--- Artist.Followers >  1275050.50
+|   |   |   |   |   |--- class: True
+|   |   |   |--- Artist.Followers >  1276923.00
+|   |   |   |   |--- Artist.Followers <= 1585477.00
+|   |   |   |   |   |--- class: False
+|   |   |   |   |--- Artist.Followers >  1585477.00
+|   |   |   |   |   |--- Artist.Followers <= 1707142.50
+|   |   |   |   |   |   |--- instrumentalness <= 0.00
+|   |   |   |   |   |   |   |--- class: False
+|   |   |   |   |   |   |--- instrumentalness >  0.00
+|   |   |   |   |   |   |   |--- Energy <= 0.82
+|   |   |   |   |   |   |   |   |--- class: True
+|   |   |   |   |   |   |   |--- Energy >  0.82
+|   |   |   |   |   |   |   |   |--- class: False
+|   |   |   |   |   |--- Artist.Followers >  1707142.50
+|   |   |   |   |   |   |--- explicit <= 0.50
+|   |   |   |   |   |   |   |--- class: False
+|   |   |   |   |   |   |--- explicit >  0.50
+|   |   |   |   |   |   |   |--- Artist.Followers <= 3060663.50
+|   |   |   |   |   |   |   |   |--- class: False
+|   |   |   |   |   |   |   |--- Artist.Followers >  3060663.50
+|   |   |   |   |   |   |   |   |--- Artist.Followers <= 4452923.50
+|   |   |   |   |   |   |   |   |   |--- Artist.Followers <= 4427980.50
+|   |   |   |   |   |   |   |   |   |   |--- class: False
+|   |   |   |   |   |   |   |   |   |--- Artist.Followers >  4427980.50
+|   |   |   |   |   |   |   |   |   |   |--- class: True
+|   |   |   |   |   |   |   |   |--- Artist.Followers >  4452923.50
+|   |   |   |   |   |   |   |   |   |--- class: False
+|--- Artist.Followers >  4751564.50
+|   |--- explicit <= 0.50
+|   |   |--- Artist.Followers <= 35254650.00
+|   |   |   |--- Artist.Followers <= 15573771.00
+|   |   |   |   |--- Artist.Followers <= 4773419.00
+|   |   |   |   |   |--- class: True
+|   |   |   |   |--- Artist.Followers >  4773419.00
+|   |   |   |   |   |--- class: False
+|   |   |   |--- Artist.Followers >  15573771.00
+|   |   |   |   |--- Artist.Followers <= 19124295.00
+|   |   |   |   |   |--- class: True
+|   |   |   |   |--- Artist.Followers >  19124295.00
+|   |   |   |   |   |--- Artist.Followers <= 29860336.00
+|   |   |   |   |   |   |--- Artist.Followers <= 26292378.00
+|   |   |   |   |   |   |   |--- Acousticness <= 0.06
+|   |   |   |   |   |   |   |   |--- class: False
+|   |   |   |   |   |   |   |--- Acousticness >  0.06
+|   |   |   |   |   |   |   |   |--- class: False
+|   |   |   |   |   |   |--- Artist.Followers >  26292378.00
+|   |   |   |   |   |   |   |--- class: True
+|   |   |   |   |   |--- Artist.Followers >  29860336.00
+|   |   |   |   |   |   |--- Artist.Followers <= 31053288.00
+|   |   |   |   |   |   |   |--- class: False
+|   |   |   |   |   |   |--- Artist.Followers >  31053288.00
+|   |   |   |   |   |   |   |--- Artist.Followers <= 32306575.00
+|   |   |   |   |   |   |   |   |--- class: True
+|   |   |   |   |   |   |   |--- Artist.Followers >  32306575.00
+|   |   |   |   |   |   |   |   |--- Artist.Followers <= 34249912.00
+|   |   |   |   |   |   |   |   |   |--- Artist.Followers <= 33602280.00
+|   |   |   |   |   |   |   |   |   |   |--- class: False
+|   |   |   |   |   |   |   |   |   |--- Artist.Followers >  33602280.00
+|   |   |   |   |   |   |   |   |   |   |--- class: True
+|   |   |   |   |   |   |   |   |--- Artist.Followers >  34249912.00
+|   |   |   |   |   |   |   |   |   |--- class: False
+|   |   |--- Artist.Followers >  35254650.00
+|   |   |   |--- Artist.Followers <= 49832050.00
+|   |   |   |   |--- Loudness <= -4.49
+|   |   |   |   |   |--- Duration_ms <= 218115.50
+|   |   |   |   |   |   |--- class: True
+|   |   |   |   |   |--- Duration_ms >  218115.50
+|   |   |   |   |   |   |--- Artist.Followers <= 43370828.00
+|   |   |   |   |   |   |   |--- Artist.Followers <= 41406188.00
+|   |   |   |   |   |   |   |   |--- Artist.Followers <= 38019278.00
+|   |   |   |   |   |   |   |   |   |--- class: True
+|   |   |   |   |   |   |   |   |--- Artist.Followers >  38019278.00
+|   |   |   |   |   |   |   |   |   |--- class: False
+|   |   |   |   |   |   |   |--- Artist.Followers >  41406188.00
+|   |   |   |   |   |   |   |   |--- class: True
+|   |   |   |   |   |   |--- Artist.Followers >  43370828.00
+|   |   |   |   |   |   |   |--- Artist.Followers <= 45764120.00
+|   |   |   |   |   |   |   |   |--- class: False
+|   |   |   |   |   |   |   |--- Artist.Followers >  45764120.00
+|   |   |   |   |   |   |   |   |--- class: True
+|   |   |   |   |--- Loudness >  -4.49
+|   |   |   |   |   |--- class: False
+|   |   |   |--- Artist.Followers >  49832050.00
+|   |   |   |   |--- Artist.Followers <= 62712852.00
+|   |   |   |   |   |--- class: False
+|   |   |   |   |--- Artist.Followers >  62712852.00
+|   |   |   |   |   |--- class: True
+|   |--- explicit >  0.50
+|   |   |--- Artist.Followers <= 11535496.50
+|   |   |   |--- Artist.Followers <= 6893156.00
+|   |   |   |   |--- Artist.Followers <= 5797633.50
+|   |   |   |   |   |--- Artist.Followers <= 5025689.00
+|   |   |   |   |   |   |--- class: True
+|   |   |   |   |   |--- Artist.Followers >  5025689.00
+|   |   |   |   |   |   |--- class: False
+|   |   |   |   |--- Artist.Followers >  5797633.50
+|   |   |   |   |   |--- class: True
+|   |   |   |--- Artist.Followers >  6893156.00
+|   |   |   |   |--- Artist.Followers <= 7384495.00
+|   |   |   |   |   |--- class: False
+|   |   |   |   |--- Artist.Followers >  7384495.00
+|   |   |   |   |   |--- Artist.Followers <= 7879967.00
+|   |   |   |   |   |   |--- class: True
+|   |   |   |   |   |--- Artist.Followers >  7879967.00
+|   |   |   |   |   |   |--- Artist.Followers <= 8610288.50
+|   |   |   |   |   |   |   |--- class: False
+|   |   |   |   |   |   |--- Artist.Followers >  8610288.50
+|   |   |   |   |   |   |   |--- Artist.Followers <= 8763297.50
+|   |   |   |   |   |   |   |   |--- class: True
+|   |   |   |   |   |   |   |--- Artist.Followers >  8763297.50
+|   |   |   |   |   |   |   |   |--- class: False
+|   |   |--- Artist.Followers >  11535496.50
+|   |   |   |--- Artist.Followers <= 19161721.00
+|   |   |   |   |--- class: True
+|   |   |   |--- Artist.Followers >  19161721.00
+|   |   |   |   |--- Artist.Followers <= 33594960.00
+|   |   |   |   |   |--- class: False
+|   |   |   |   |--- Artist.Followers >  33594960.00
+|   |   |   |   |   |--- Artist.Followers <= 37532396.00
+|   |   |   |   |   |   |--- class: True
+|   |   |   |   |   |--- Artist.Followers >  37532396.00
+|   |   |   |   |   |   |--- Artist.Followers <= 41406188.00
+|   |   |   |   |   |   |   |--- class: False
+|   |   |   |   |   |   |--- Artist.Followers >  41406188.00
+|   |   |   |   |   |   |   |--- class: True
